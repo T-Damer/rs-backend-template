@@ -1,0 +1,2 @@
+[env]
+SERVER_ADDRESS = { value = "127.0.0.1:7878", force = true }
